@@ -2,6 +2,8 @@
 
 A full-featured blog application built with Flutter and Firebase, featuring user authentication, blog creation, social interactions, and real-time updates.
 
+The video working is in the root.
+
 ## 🚀 Features
 
 ### ✅ Authentication

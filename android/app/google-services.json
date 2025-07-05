@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933848500274",
+    "project_id": "blog-app-6149a",
+    "storage_bucket": "blog-app-6149a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933848500274:android:8c1466b6cfc3957452942b",
+        "android_client_info": {
+          "package_name": "com.adhyan.bog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzxcVwEqhfh406Pw-QM5k2gqaE4ApGlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
